@@ -14,3 +14,5 @@ export function selectOne(id) {
 
     return api.get(`book/${id}`);
 }
+
+
